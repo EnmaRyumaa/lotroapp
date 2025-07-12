@@ -1,4 +1,4 @@
-package com.lotro.lotro.controllers;
+package com.lotro.lotro.controllers.status;
 
 
 import org.springframework.http.ResponseEntity;
